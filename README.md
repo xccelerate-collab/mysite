@@ -13,6 +13,31 @@ Before using the aem-boilerplate, we recommand you to go through the documentati
 3. [Web Performance](https://www.aem.live/developer/keeping-it-100)
 4. [Markup, Sections, Blocks, and Auto Blocking](https://www.aem.live/developer/markup-sections-blocks)
 
+## Creating a Local Copy
+
+To work with this project locally, follow these steps:
+
+### Prerequisites
+- [Git](https://git-scm.com/) installed on your machine
+- [Node.js](https://nodejs.org/) (version 14 or higher recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+### Clone the Repository
+
+1. Open your terminal or command prompt
+2. Navigate to the directory where you want to clone the project
+3. Run the following command:
+
+```sh
+git clone https://github.com/xccelerate-collab/mysite.git
+```
+
+4. Navigate into the project directory:
+
+```sh
+cd mysite
+```
+
 ## Installation
 
 ```sh
