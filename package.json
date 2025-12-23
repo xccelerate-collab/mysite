@@ -1,8 +1,8 @@
 {
-  "name": "@adobe/aem-boilerplate",
+  "name": "mysite",
   "private": true,
   "version": "1.3.0",
-  "description": "Starter project for Adobe Helix",
+  "description": "Adobe Experience Manager site project",
   "scripts": {
     "lint:js": "eslint .",
     "lint:css": "stylelint \"blocks/**/*.css\" \"styles/*.css\"",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adobe/aem-boilerplate.git"
+    "url": "git+https://github.com/xccelerate-collab/mysite.git"
   },
-  "author": "Adobe",
+  "author": "xccelerate-collab",
   "license": "Apache License 2.0",
   "bugs": {
-    "url": "https://github.com/adobe/aem-boilerplate/issues"
+    "url": "https://github.com/xccelerate-collab/mysite/issues"
   },
-  "homepage": "https://github.com/adobe/aem-boilerplate#readme",
+  "homepage": "https://github.com/xccelerate-collab/mysite#readme",
   "devDependencies": {
     "@babel/eslint-parser": "7.28.5",
     "eslint": "8.57.1",
